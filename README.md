@@ -1,10 +1,10 @@
-ALTAF ECOMMERCE SALES DASHBOARD
+ALTAF E-Commerce SALES DASHBOARD
 
 
 
 📊 Project Overview
 
-ALTAF ECOMMERCE SALES DASHBOARD is an interactive Microsoft Power BI dashboard designed to provide a high-level view of e-commerce sales, profit, quantity, customer performance, payment behavior, geographic/state performance, monthly profit/loss, and product/sub-category profitability.
+ALTAF E-Commerce SALES DASHBOARD is an interactive Microsoft Power BI dashboard designed to provide a high-level view of e-commerce sales, profit, quantity, customer performance, payment behavior, geographic/state performance, monthly profit/loss, and product/sub-category profitability.
 
 The dashboard combines KPI cards, bar charts, a column chart, donut charts, slicers, and interactive Power BI filtering into a single-page business intelligence report.
 
@@ -52,7 +52,7 @@ Customer, Payment & Product Analysis
 
 Dashboard Title
 
-ALTAF ECOMMERCE SALES DASHBOARD
+ALTAF E-Commerce SALES DASHBOARD
 
 The title identifies the report and establishes the purpose of the page.
 
@@ -967,7 +967,7 @@ Printers is the highest-profit displayed sub-category, followed by Bookcases, Sa
 
 Altaf Reza
 
-Project: ALTAF ECOMMERCE SALES DASHBOARD
+Project: ALTAF E-Commerce SALES DASHBOARD
 Platform: Microsoft Power BI
 Project Type: Business Intelligence / Data Analytics / Sales Dashboard
 
